@@ -1,3 +1,7 @@
+# Objetivo
+
+O meu objetivo com esse projeto é aprender os conceitos do angurar, assim como estudar padrões de projetos e consolidar conhecimentos já adiquiridos no java em outra linguagem (TS).
+
 # PrimeiroProjeto
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.8.
